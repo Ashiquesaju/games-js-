@@ -1,0 +1,22 @@
+body{
+    background-image: url("grass_night_tile.png");
+    background-size: contain;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1{
+    text-transform: capitalize;
+    text-decoration-style: double;
+    color: rgb(126, 0, 25);
+}
+button{
+    text-decoration: solid;
+    background-color: aquamarine;
+    border-radius: 15%;
+    border-color: black;
+}
+button:hover{
+    background-color: aqua;
+}
